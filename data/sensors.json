@@ -1,0 +1,221 @@
+{
+  "sensors": {
+    "Airflow": [
+      {
+        "id": "AFW001",
+        "name": "CPU Airflow",
+        "unit": "CFM",
+        "value": 450,
+        "min": 200,
+        "max": 800,
+        "status": "normal"
+      },
+      {
+        "id": "AFW002",
+        "name": "System Airflow",
+        "unit": "CFM",
+        "value": 520,
+        "min": 300,
+        "max": 900,
+        "status": "normal"
+      },
+      {
+        "id": "AFW003",
+        "name": "Inlet Airflow",
+        "unit": "CFM",
+        "value": 380,
+        "min": 250,
+        "max": 700,
+        "status": "normal"
+      }
+    ],
+    "Temperature": [
+      {
+        "type": "signal",
+        "endian": "l",
+        "flags": 1,
+        "version": 1,
+        "cookie": 582,
+        "timestamp-realtime": 1780058562214522,
+        "sender": ":1.136",
+        "path": "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface": "org.freedesktop.DBus.Properties",
+        "member": "PropertiesChanged",
+        "payload": {
+          "type": "sa{sv}as",
+          "data": [
+            "xyz.openbmc_project.Sensor.Value",
+            {
+              "Value": {
+                "type": "d",
+                "data": 24.125
+              }
+            },
+            []
+          ]
+        }
+      }
+    ],
+    "Current": [
+      {
+        "id": "CURR001",
+        "name": "+12V Rail Current",
+        "unit": "A",
+        "value": 15.2,
+        "max": 40,
+        "warning": 35,
+        "status": "normal"
+      },
+      {
+        "id": "CURR002",
+        "name": "+5V Rail Current",
+        "unit": "A",
+        "value": 8.5,
+        "max": 20,
+        "warning": 18,
+        "status": "normal"
+      },
+      {
+        "id": "CURR003",
+        "name": "+3.3V Rail Current",
+        "unit": "A",
+        "value": 5.1,
+        "max": 15,
+        "warning": 13,
+        "status": "normal"
+      },
+      {
+        "id": "CURR004",
+        "name": "CPU Current",
+        "unit": "A",
+        "value": 32.0,
+        "max": 50,
+        "warning": 40,
+        "status": "warning"
+      }
+    ],
+    "Power": [
+      {
+        "id": "PWR001",
+        "name": "Total Power",
+        "unit": "W",
+        "value": 485,
+        "max": 1000,
+        "warning": 900,
+        "status": "normal"
+      },
+      {
+        "id": "PWR002",
+        "name": "CPU Power",
+        "unit": "W",
+        "value": 180,
+        "max": 300,
+        "warning": 280,
+        "status": "normal"
+      },
+      {
+        "id": "PWR003",
+        "name": "System Power",
+        "unit": "W",
+        "value": 305,
+        "max": 600,
+        "warning": 550,
+        "status": "normal"
+      },
+      {
+        "id": "PWR004",
+        "name": "Memory Power",
+        "unit": "W",
+        "value": 25,
+        "max": 100,
+        "warning": 90,
+        "status": "normal"
+      }
+    ],
+    "Fan": [
+      {
+        "id": "FAN001",
+        "name": "CPU Fan",
+        "unit": "RPM",
+        "value": 4200,
+        "min": 1000,
+        "max": 7000,
+        "warning": 6500,
+        "status": "normal"
+      },
+      {
+        "id": "FAN002",
+        "name": "Chassis Fan 1",
+        "unit": "RPM",
+        "value": 3800,
+        "min": 800,
+        "max": 6000,
+        "warning": 5500,
+        "status": "normal"
+      },
+      {
+        "id": "FAN003",
+        "name": "Chassis Fan 2",
+        "unit": "RPM",
+        "value": 3600,
+        "min": 800,
+        "max": 6000,
+        "warning": 5500,
+        "status": "normal"
+      },
+      {
+        "id": "FAN004",
+        "name": "PSU Fan",
+        "unit": "RPM",
+        "value": 2100,
+        "min": 500,
+        "max": 4000,
+        "warning": 3800,
+        "status": "normal"
+      }
+    ],
+    "Voltage": [
+      {
+        "id": "VOLT001",
+        "name": "+12V Rail",
+        "unit": "V",
+        "value": 12.05,
+        "min": 11.5,
+        "max": 12.5,
+        "status": "normal"
+      },
+      {
+        "id": "VOLT002",
+        "name": "+5V Rail",
+        "unit": "V",
+        "value": 5.02,
+        "min": 4.75,
+        "max": 5.25,
+        "status": "normal"
+      },
+      {
+        "id": "VOLT003",
+        "name": "+3.3V Rail",
+        "unit": "V",
+        "value": 3.31,
+        "min": 3.135,
+        "max": 3.465,
+        "status": "normal"
+      },
+      {
+        "id": "VOLT004",
+        "name": "VCORE",
+        "unit": "V",
+        "value": 1.25,
+        "min": 0.8,
+        "max": 1.6,
+        "status": "normal"
+      }
+    ]
+  },
+  "metadata": {
+    "timestamp": "2024-06-18T15:24:14Z",
+    "source": "OpenBMC D-Bus",
+    "version": "1.0"
+  }
+}

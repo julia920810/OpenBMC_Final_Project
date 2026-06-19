@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OpenBMC D-Bus Sensor Data Dashboard</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1>OpenBMC D-Bus Sensor Data Dashboard</h1>
+                <p class="subtitle"> <p>平行與分散式系統:程式設計與管理期末專題</p></p>
+                <p class="subtitle">NQ6144060 林芷翊   NQ6144086 洪翊芯</p>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Home View -->
+            <div id="homeView" class="view active">
+                <section class="sensor-categories">
+                    <h2>選擇感測器類別</h2>
+                    <div class="category-grid">
+                        <button class="category-btn" data-category="Airflow">
+                            <div class="icon">💨</div>
+                            <div class="label">Airflow</div>
+                            <div class="count">(氣流)</div>
+                        </button>
+                        <button class="category-btn" data-category="Temperature">
+                            <div class="icon">🌡️</div>
+                            <div class="label">Temperature</div>
+                            <div class="count">(溫度)</div>
+                        </button>
+                        <button class="category-btn" data-category="Current">
+                            <div class="icon">⚡</div>
+                            <div class="label">Current</div>
+                            <div class="count">(電流)</div>
+                        </button>
+                        <button class="category-btn" data-category="Power">
+                            <div class="icon">🔋</div>
+                            <div class="label">Power</div>
+                            <div class="count">(功率)</div>
+                        </button>
+                        <button class="category-btn" data-category="Fan">
+                            <div class="icon">🌀</div>
+                            <div class="label">Fan</div>
+                            <div class="count">(風扇)</div>
+                        </button>
+                        <button class="category-btn" data-category="Voltage">
+                            <div class="icon">⚙️</div>
+                            <div class="label">Voltage</div>
+                            <div class="count">(電壓)</div>
+                        </button>
+                    </div>
+                </section>
+
+                <!-- Statistics Section -->
+                <section class="statistics">
+                    <h2>系統統計</h2>
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <div class="stat-value" id="totalSensors">-</div>
+                            <div class="stat-label">總感測器數量</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value" id="activeSensors">-</div>
+                            <div class="stat-label">活躍感測器</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value" id="lastUpdate">-</div>
+                            <div class="stat-label">最後更新時間</div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
+            <!-- Category View -->
+            <div id="categoryView" class="view">
+                <div class="category-header">
+                    <button class="back-btn" id="backBtn">← 返回</button>
+                    <h2 id="categoryTitle">感測器類別</h2>
+                    <div class="spacer"></div>
+                </div>
+
+                <div class="sensor-list" id="sensorList">
+                    <!-- Sensors will be dynamically loaded here -->
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>114_2 平行與分散式系統:程式設計與管理</p>
+        </footer>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
