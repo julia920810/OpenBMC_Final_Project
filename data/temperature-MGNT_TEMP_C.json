@@ -1,0 +1,2216 @@
+[
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  509,
+        "timestamp-realtime":  1780058475603176,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  26.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  511,
+        "timestamp-realtime":  1780058477607783,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  513,
+        "timestamp-realtime":  1780058478110440,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  515,
+        "timestamp-realtime":  1780058478607948,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  517,
+        "timestamp-realtime":  1780058481110961,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  518,
+        "timestamp-realtime":  1780058481612194,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  519,
+        "timestamp-realtime":  1780058483114897,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  521,
+        "timestamp-realtime":  1780058484117892,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.187
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  523,
+        "timestamp-realtime":  1780058484618177,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  525,
+        "timestamp-realtime":  1780058485121873,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.187
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  527,
+        "timestamp-realtime":  1780058487196068,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  23.95
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  532,
+        "timestamp-realtime":  1780058491632409,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.187
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  534,
+        "timestamp-realtime":  1780058492139167,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  543,
+        "timestamp-realtime":  1780058496174026,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.187
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  544,
+        "timestamp-realtime":  1780058497149819,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.25
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  546,
+        "timestamp-realtime":  1780058498151043,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.187
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  549,
+        "timestamp-realtime":  1780058498648872,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  551,
+        "timestamp-realtime":  1780058499150385,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  552,
+        "timestamp-realtime":  1780058500405611,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.0
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  553,
+        "timestamp-realtime":  1780058503520825,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  23.937
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  554,
+        "timestamp-realtime":  1780058503547183,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  23.9
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  558,
+        "timestamp-realtime":  1780058503764203,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  562,
+        "timestamp-realtime":  1780058507675989,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  566,
+        "timestamp-realtime":  1780058509682193,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  567,
+        "timestamp-realtime":  1780058510712314,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  568,
+        "timestamp-realtime":  1780058514034669,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  569,
+        "timestamp-realtime":  1780058516817683,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  570,
+        "timestamp-realtime":  1780058519610412,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  571,
+        "timestamp-realtime":  1780058521615316,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  576,
+        "timestamp-realtime":  1780058543182992,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.187
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  577,
+        "timestamp-realtime":  1780058544448075,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.25
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  580,
+        "timestamp-realtime":  1780058555975006,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.187
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  582,
+        "timestamp-realtime":  1780058562214522,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  588,
+        "timestamp-realtime":  1780058596972160,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.187
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  590,
+        "timestamp-realtime":  1780058602454566,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  596,
+        "timestamp-realtime":  1780058633985354,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  599,
+        "timestamp-realtime":  1780058649937184,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  600,
+        "timestamp-realtime":  1780058654639664,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  604,
+        "timestamp-realtime":  1780058692593294,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.0
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  605,
+        "timestamp-realtime":  1780058697247036,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  608,
+        "timestamp-realtime":  1780058706182093,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.3
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  610,
+        "timestamp-realtime":  1780058714905303,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  614,
+        "timestamp-realtime":  1780058717280953,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.0
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  616,
+        "timestamp-realtime":  1780058717760374,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  617,
+        "timestamp-realtime":  1780058719000090,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  618,
+        "timestamp-realtime":  1780058719219890,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  621,
+        "timestamp-realtime":  1780058720729035,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  623,
+        "timestamp-realtime":  1780058720806400,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  626,
+        "timestamp-realtime":  1780058721650090,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  630,
+        "timestamp-realtime":  1780058723016447,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  631,
+        "timestamp-realtime":  1780058724114556,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  23.92
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  634,
+        "timestamp-realtime":  1780058725612745,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  635,
+        "timestamp-realtime":  1780058725765318,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.0
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  638,
+        "timestamp-realtime":  1780058725935566,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  639,
+        "timestamp-realtime":  1780058727311627,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  642,
+        "timestamp-realtime":  1780058728717714,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  644,
+        "timestamp-realtime":  1780058729608739,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  648,
+        "timestamp-realtime":  1780058729730561,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.187
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  649,
+        "timestamp-realtime":  1780058729822460,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  650,
+        "timestamp-realtime":  1780058729928341,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  652,
+        "timestamp-realtime":  1780058730596631,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.28
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  654,
+        "timestamp-realtime":  1780058732648381,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  656,
+        "timestamp-realtime":  1780058733095075,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.0
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  657,
+        "timestamp-realtime":  1780058733276188,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  659,
+        "timestamp-realtime":  1780058734094874,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.0
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  661,
+        "timestamp-realtime":  1780058734186529,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  665,
+        "timestamp-realtime":  1780058735324559,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  666,
+        "timestamp-realtime":  1780058736475424,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  668,
+        "timestamp-realtime":  1780058736804966,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.0
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  669,
+        "timestamp-realtime":  1780058736904353,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  670,
+        "timestamp-realtime":  1780058736955409,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.0
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  671,
+        "timestamp-realtime":  1780058737386272,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  23.937
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  674,
+        "timestamp-realtime":  1780058739110000,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.0
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  676,
+        "timestamp-realtime":  1780058740409769,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  680,
+        "timestamp-realtime":  1780058740667784,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.0
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  681,
+        "timestamp-realtime":  1780058741054202,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  23.937
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  682,
+        "timestamp-realtime":  1780058741133710,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.0
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  684,
+        "timestamp-realtime":  1780058741786158,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  685,
+        "timestamp-realtime":  1780058752489097,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  687,
+        "timestamp-realtime":  1780058752619824,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  689,
+        "timestamp-realtime":  1780058758955160,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.125
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    },
+    {
+        "type":  "signal",
+        "endian":  "l",
+        "flags":  1,
+        "version":  1,
+        "cookie":  690,
+        "timestamp-realtime":  1780058768562643,
+        "sender":  ":1.136",
+        "path":  "/xyz/openbmc_project/sensors/temperature/MGNT_TEMP_C",
+        "interface":  "org.freedesktop.DBus.Properties",
+        "member":  "PropertiesChanged",
+        "payload":  {
+                        "type":  "sa{sv}as",
+                        "data":  [
+                                     "xyz.openbmc_project.Sensor.Value",
+                                     {
+                                         "Value":  {
+                                                       "type":  "d",
+                                                       "data":  24.062
+                                                   }
+                                     },
+                                     [
+
+                                     ]
+                                 ]
+                    }
+    }
+]

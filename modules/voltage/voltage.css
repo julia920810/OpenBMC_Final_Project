@@ -1,0 +1,16 @@
+﻿.voltage-module .module-kicker,
+.voltage-item .detail-value.normal {
+    color: #ca8a04;
+}
+
+.voltage-item::before {
+    background: linear-gradient(90deg, #eab308, #84cc16);
+}
+
+.voltage-item .sensor-status.normal {
+    background-color: #ca8a04;
+}
+
+.voltage-item .sensor-status.warning {
+    background-color: #dc2626;
+}

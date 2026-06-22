@@ -1,0 +1,16 @@
+﻿.airflow-module .module-kicker,
+.airflow-item .detail-value.normal {
+    color: #0f766e;
+}
+
+.airflow-item::before {
+    background: linear-gradient(90deg, #14b8a6, #2563eb);
+}
+
+.airflow-item .sensor-status.normal {
+    background-color: #14b8a6;
+}
+
+.airflow-item .sensor-status.warning {
+    background-color: #f97316;
+}

@@ -1,0 +1,16 @@
+﻿.power-module .module-kicker,
+.power-item .detail-value.normal {
+    color: #7c3aed;
+}
+
+.power-item::before {
+    background: linear-gradient(90deg, #7c3aed, #06b6d4);
+}
+
+.power-item .sensor-status.normal {
+    background-color: #7c3aed;
+}
+
+.power-item .sensor-status.warning {
+    background-color: #ef4444;
+}
